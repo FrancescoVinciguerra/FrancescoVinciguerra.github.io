@@ -2,6 +2,17 @@
 
 <!-- start custom head snippets -->
 
+{% if page.citation_title %}
+<!-- Bibliographic metadata for Google Scholar -->
+<meta name="citation_title" content="{{ page.citation_title | escape }}"/>
+{% for author in page.citation_authors %}
+<meta name="citation_author" content="{{ author | escape }}"/>
+{% endfor %}
+<meta name="citation_publication_date" content="{{ page.citation_publication_date | escape }}"/>
+<meta name="citation_technical_report_institution" content="{{ page.citation_technical_report_institution | escape }}"/>
+<meta name="citation_pdf_url" content="{{ page.citation_pdf_url | escape }}"/>
+{% endif %}
+
 <!-- Support for Academicons -->
 <link rel="preload" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></noscript>
