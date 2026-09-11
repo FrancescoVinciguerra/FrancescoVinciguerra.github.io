@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Applied Mathematics at EPFL. My academic interests lie at the intersection of artificial intelligence, mathematical methods, and uncertainty.
+I am a Master's student in Applied Mathematics at EPFL. My academic interests are artificial intelligence, probability and statistics.
 
 Research interests
 ======
 
-- AI safety
-- Deep learning
+- Artificial intelligence
 - Probability
 - Statistics
 

@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Francesco Vinciguerra"
 title_separator          : "-"
 name                     : &name "Francesco Vinciguerra"
-description              : &description "Master's student in Applied Mathematics at EPFL, interested in AI safety, deep learning, probability and statistics."
+description              : &description "Master's student in Applied Mathematics at EPFL, interested in artificial intelligence, probability and statistics."
 url                      : https://francescovinciguerra.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
