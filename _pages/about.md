@@ -19,7 +19,7 @@ Research interests
 Contact
 ======
 
-You can contact me at `francesco.vinciguerra [at] epfl.ch`.
+To contact me: `firstname.lastname@epfl.ch`.
 
 Projects
 ======
