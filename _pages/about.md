@@ -18,7 +18,7 @@ Research interests
 Contact
 ======
 
-To contact me: `firstname.lastname@epfl.ch`.
+To contact me: `firstname.lastname [at] epfl.ch`.
 
 Projects
 ======
