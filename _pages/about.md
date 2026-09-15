@@ -16,6 +16,11 @@ Research interests
 - Probability
 - Statistics
 
+Contact
+======
+
+You can contact me at `francesco.vinciguerra [at] epfl.ch`.
+
 Projects
 ======
 
