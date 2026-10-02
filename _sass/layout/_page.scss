@@ -138,6 +138,11 @@
     line-height: 1.5;
   }
 
+  .academic-update cite,
+  .publication-entry cite {
+    font-style: normal;
+  }
+
   .publication-entry__authors,
   .publication-entry__venue,
   .publication-entry__links {
