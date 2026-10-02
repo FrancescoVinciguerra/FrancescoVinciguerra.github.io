@@ -1,4 +1,10 @@
 main:
+  - title: "Updates"
+    url: /#updates
+
+  - title: "Publications"
+    url: /#publications
+
   - title: "Projects"
     url: /projects/
 
